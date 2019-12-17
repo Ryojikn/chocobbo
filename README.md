@@ -10,16 +10,28 @@ The main idea of this project is to develop a type of vehicle that enables peopl
 
 If so, you can send back the GPS coordinates to the owner's device, or start screaming with a buzzer, or even deliver medications/other things attached to the vehicle to that person.
 
+## Simulation
+
+Chocobbo - Multiterrain vehicle flying
+[![Demo CountPages alpha](simulation/flying.gif)](https://youtu.be/zu3WHnNzGS8)
+
+
+Chocobbo - Multiterrain vehicle driving/sailing
+https://youtu.be/Y8J8skEob78
+
+Chocobbo - Multiterrain vehicle steering
+https://youtu.be/toxAaYlSdhg
+
 ## Etymology
 The origin of the name is a tribute to the Chocobo® character from Final Fantasy®, due to the fact that the character is able to walk through all of those terrains, and also because i'm a huge fan of those games.
 
 ## Tasks concluded
 - Design a prototype
 - 3d print the prototype
-- Design a control device
 - Add neural network to object detection
 
 ## Tasks to do
+- Design the controller
 - Improve the prototype
 - Improve the control algorithm
 - Improve the 3d printings smoothness
