@@ -12,6 +12,8 @@ If so, you can send back the GPS coordinates to the owner's device, or start scr
 
 ## Prototype
 
+<script src="https://embed.github.com/view/3d/ryojikn/chocobbo/master/assembly/car_assembly_v73.stl"></script>
+
 ## Simulation
 
 ### Multiterrain vehicle flying
