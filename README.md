@@ -10,17 +10,19 @@ The main idea of this project is to develop a type of vehicle that enables peopl
 
 If so, you can send back the GPS coordinates to the owner's device, or start screaming with a buzzer, or even deliver medications/other things attached to the vehicle to that person.
 
+## Prototype
+
 ## Simulation
 
-Chocobbo - Multiterrain vehicle flying
-[![Demo CountPages alpha](simulation/flying.gif)](https://youtu.be/zu3WHnNzGS8)
+### Multiterrain vehicle flying
 
+[![Chocobbo flying](simulation/flying.gif)](https://youtu.be/zu3WHnNzGS8)
 
-Chocobbo - Multiterrain vehicle driving/sailing
-https://youtu.be/Y8J8skEob78
+### Multiterrain vehicle driving/sailing
+[![Chocobbo driving/sailing](simulation/driving_sailing.gif)](https://youtu.be/Y8J8skEob78)
 
-Chocobbo - Multiterrain vehicle steering
-https://youtu.be/toxAaYlSdhg
+### Multiterrain vehicle steering
+[![Chocobbo steering](simulation/steering.gif)](https://youtu.be/toxAaYlSdhg)
 
 ## Etymology
 The origin of the name is a tribute to the Chocobo® character from Final Fantasy®, due to the fact that the character is able to walk through all of those terrains, and also because i'm a huge fan of those games.
