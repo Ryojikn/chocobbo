@@ -11,8 +11,9 @@ The main idea of this project is to develop a type of vehicle that enables peopl
 If so, you can send back the GPS coordinates to the owner's device, or start screaming with a buzzer, or even deliver medications/other things attached to the vehicle to that person.
 
 ## Prototype
-
+```
 <script src="https://embed.github.com/view/3d/ryojikn/chocobbo/master/assembly/car_assembly_v73.stl"></script>
+```
 
 ## Simulation
 
